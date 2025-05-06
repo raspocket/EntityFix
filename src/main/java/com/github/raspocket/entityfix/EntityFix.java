@@ -5,7 +5,7 @@ import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = "entityfix", useMetadata=true)
+@Mod(modid = "fgtxray", name = "EntityFix", useMetadata=true)
 public class ExampleMod {
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
